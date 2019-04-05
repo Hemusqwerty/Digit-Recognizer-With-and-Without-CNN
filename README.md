@@ -1,2 +1,2 @@
 # Digit-Recognizer-With-and-Without-CNN
-In this project I have implemented implemented Digit Recognizer on MNIST Dataset and check the accuracy of the model 
+In this project I have implemented implemented Digit Recognizer on MNIST Dataset and check the accuracy of the model Using CNN and Using Logistic Regression .
